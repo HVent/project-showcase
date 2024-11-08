@@ -1,5 +1,5 @@
 # project-showcase
-Welcome to my portfolio! I'm Heinrich Vent, a software engineer with a focus on Java and Python development and a background in computational engineering. This repository showcases some of my most notable projects.
+Welcome to my portfolio! I'm Heinrich Vent, an aspiring software engineer with a focus on Java and Python development and an extended background in mechanical engineering. This repository showcases some of my most notable projects to support a swift career change.
 
 ## Projects
 
