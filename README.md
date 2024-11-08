@@ -3,15 +3,10 @@ Welcome to my portfolio! I'm Heinrich Vent, an aspiring software engineer with a
 
 ## Projects
 
-### [Wind Turbine Strength Calculations](link_to_project_folder)
-- **Technologies**: Python, NumPy, Matplotlib
-- **Summary**: Calculations for structural strength in wind turbines rotor blades, focusing on efficient and accurate methods.
-- **Highlights**: Achieved efficient performance by implementing optimized algorithms for large-scale data.
-
-### [Construction Project Management Tool](link_to_project_folder)
-- **Technologies**: Java, SQL
-- **Summary**: A tool to organize and manage construction projects, inspired by my background in construction.
-- **Highlights**: Includes a responsive UI and integration with a backend database.
+### [Thin-walled cross section properties](project-master thesis-finite element analysis in python)
+- **Technologies**: Python, NumPy, Matplotlib, PySimpleGUI
+- **Summary**: Calculations for cross section properties of thin-walled structures, f.e. wind turbine rotor blades and ship hulls, focusing on efficient and accurate methods.
+- **Highlights**: Can display input and output data in form of 2D and 3D graphics. This supports an easy validation and interpretation of aforementioned data. Another highlight is the calculation of warp torsion properties, which are most challenging in numerical aspects.
 
 ## Contact
 - **LinkedIn**: [Heinrich Vent](https://www.linkedin.com/in/heinrich-vent-231a88266/)
