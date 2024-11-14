@@ -12,10 +12,6 @@ Welcome to my portfolio! I'm Heinrich Vent, an aspiring software engineer with a
 - **Technologies**: Java, IntelliJ, OOP, MVC
 - **Summary**: A comprehensive project developed during a Java training course, demonstrating key object-oriented principles and advanced Java concepts. Features
 concepts and learnings after 4 of 8 weeks of the course in form of an intermediate test project. The timeframe to complete was 2 days.
-- **Features**:
-- Command Module: Implements core functionality through a series of commands that interact with the system.
-- Logic Module: Contains factories, managers, and file handling to simulate real-world application scenarios.
-- User Interface (UI): Offers a console-based interface for interaction, designed to simulate user input handling and system feedback.
 - **Highlights**: Structured using a Model-View-Controller (MVC) architecture to separate logic, data handling, and user interface, making it scalable and easy to maintain.
 
 ## Contact
