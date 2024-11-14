@@ -29,17 +29,16 @@ Starten Sie das Programm über die Hauptklasse in der IDE.
 Die Benutzeroberfläche im ui-Modul bietet Interaktionsmöglichkeiten, während die Hauptlogik im logic-Modul ausgeführt wird.
 
 # Funktionen und Module
-Benutzeroberfläche (ui): Interaktive GUI zur Benutzersteuerung und -eingabe.
-Datenmodellierung (model): Strukturiert die Daten, die in der Anwendung verarbeitet werden.
-Logik und Befehle (commands und logic): Implementierung der Kernlogik und der Befehlsklassen für die Projektanforderungen.
-Ressourcen (resources): Verwendet für statische Inhalte, die im Programm geladen werden (z. B. Konfiguration, Medien).
-Tests
-Testfälle befinden sich im Ordner test. Diese testen die Hauptfunktionen und garantieren die Zuverlässigkeit und Stabilität des Codes.
+- **Benutzeroberfläche (ui)**: Interaktive GUI zur Benutzersteuerung und -eingabe.
+- **Datenmodellierung (model)**: Strukturiert die Daten, die in der Anwendung verarbeitet werden.
+- **Logik und Befehle (commands und logic)**: Implementierung der Kernlogik und der Befehlsklassen für die Projektanforderungen.
+- **Ressourcen (resources)**: Verwendet für statische Inhalte, die im Programm geladen werden (z. B. Konfiguration, Medien).
+- **Tests**: Testfälle befinden sich im Ordner test. Diese testen die Hauptfunktionen und garantieren die Zuverlässigkeit und Stabilität des Codes.
 
 # Dokumentation
 Eine umfassende Dokumentation, einschließlich technischer Details und Anwendungsanweisungen, finden Sie im Ordner documentation.
 
 # Kontakt
 Für Infos zum Author und persönlichen Kontakt verwenden Sie bitte die folgende Daten:
-Email: ventheinrich@gmail.com
-LinkedIn: https://www.linkedin.com/in/heinrich-vent-231a88266/
+- **Email**: ventheinrich@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/heinrich-vent-231a88266/
