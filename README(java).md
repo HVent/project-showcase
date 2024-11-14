@@ -1,4 +1,4 @@
-# Projektname: alfatraining Bildungszentrum - Kurs Javaentwickler - Projekt: 
+# alfatraining Zwischenprüfung - Kundendatenbank für Bestellungen
 
 ## Projektbeschreibung
 Dieses Projekt wurde im Rahmen des alfatraining-Kurses zur Softwareentwicklung mit Java erstellt. Es umfasst die Entwicklung einer Java-Anwendung, die verschiedene Module und Funktionen integriert, darunter Benutzeroberfläche, Datenmodellierung und logische Befehle. Die Struktur folgt den Best Practices der Java-Entwicklung, einschließlich modularer Architektur und umfassender Dokumentation.
