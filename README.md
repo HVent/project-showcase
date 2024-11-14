@@ -3,7 +3,7 @@ Welcome to my portfolio! I'm Heinrich Vent, an aspiring software engineer with a
 
 ## Projects
 
-### [Thin-walled Cross Section Properties](project-master-thesis-finite-element-analysis-in-python)
+### [Thin-walled Cross Section Properties](project-master thesis-finite element analysis in python)
 - **Technologies**: Python, NumPy, Matplotlib, PySimpleGUI
 - **Summary**: Calculations for cross section properties of thin-walled structures, f.e. wind turbine rotor blades and ship hulls, focusing on efficient and accurate methods.
 - **Highlights**: Can display input and output data in form of 2D and 3D graphics. This supports an easy validation and interpretation of aforementioned data. Another highlight is the calculation of warp torsion properties, which are most challenging in numerical aspects.
