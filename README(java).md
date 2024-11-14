@@ -1,12 +1,12 @@
 # alfatraining Zwischenprüfung - Kundendatenbank für Bestellungen
 
 ## Projektbeschreibung
-Dieses Projekt wurde im Rahmen des alfatraining-Kurses zur Softwareentwicklung mit Java erstellt. Es umfasst die Entwicklung einer Java-Anwendung, die verschiedene Module und Funktionen integriert, darunter Benutzeroberfläche, Datenmodellierung und logische Befehle. Die Struktur folgt den Best Practices der Java-Entwicklung, einschließlich modularer Architektur und umfassender Dokumentation.
+Dieses Projekt wurde im Rahmen des alfatraining-Kurses "Softwareentwickler Java" erstellt. Es umfasst grundlegende Konzepte der Softwareentwicklung wie OOP und Clean Code. Weiterhin sind javaspeizifische Inhalte im Fokus, darunter die Erstellung von Benutzerinteraktion, Datenmodellierung und logischer Befehle. Das ermöglicht das praktische Verständnis des MVC-Patterns (Model - View -Controler - Prinzip). Die Struktur folgt den Best Practices der Java-Entwicklung, einschließlich modularer Architektur und umfassender Dokumentation. 
 
 ## Projektstruktur
 - **main**: Hauptklasse des Projekts; dient als Einstiegspunkt der Anwendung.
 - **ui**: Modul für die Benutzeroberfläche, das Interaktionen und Darstellung verwaltet.
-- **resources**: Enthält Ressourcen wie Bilder, Konfigurationsdateien oder andere benötigte Dateien.
+- **resources**: Enthält als benötigte Ressource eine CSV-Datei zur persistenten Datenspeicherung.
 - **test**: Testfälle zur Sicherstellung der Funktionalität und Stabilität des Programms.
 - **documentation**: Umfassende Dokumentation des Projekts, einschließlich technischer Spezifikationen.
 - **model**: Datenstrukturen und Modelle, die in der Anwendung verwendet werden.
@@ -29,7 +29,7 @@ Starten Sie das Programm über die Hauptklasse in der IDE.
 Die Benutzeroberfläche im ui-Modul bietet Interaktionsmöglichkeiten, während die Hauptlogik im logic-Modul ausgeführt wird.
 
 # Funktionen und Module
-- **Benutzeroberfläche (ui)**: Interaktive GUI zur Benutzersteuerung und -eingabe.
+- **Benutzeroberfläche (ui)**: Interaktives UI in der Konsole zur Benutzersteuerung und -eingabe.
 - **Datenmodellierung (model)**: Strukturiert die Daten, die in der Anwendung verarbeitet werden.
 - **Logik und Befehle (commands und logic)**: Implementierung der Kernlogik und der Befehlsklassen für die Projektanforderungen.
 - **Ressourcen (resources)**: Verwendet für statische Inhalte, die im Programm geladen werden (z. B. Konfiguration, Medien).
