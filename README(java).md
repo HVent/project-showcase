@@ -38,3 +38,8 @@ Testfälle befinden sich im Ordner test. Diese testen die Hauptfunktionen und ga
 
 # Dokumentation
 Eine umfassende Dokumentation, einschließlich technischer Details und Anwendungsanweisungen, finden Sie im Ordner documentation.
+
+# Kontakt
+Für Infos zum Author und persönlichen Kontakt verwenden Sie bitte die folgende Daten:
+Email: ventheinrich@gmail.com
+LinkedIn: https://www.linkedin.com/in/heinrich-vent-231a88266/
