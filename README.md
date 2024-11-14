@@ -11,7 +11,7 @@ Welcome to my portfolio! I'm Heinrich Vent, an aspiring software engineer with a
 ### [Kundendatenbank für Bestellungen](project-alfatraining-java-course)
 - **Technologies**: Java, IntelliJ, OOP, MVC
 - **Summary**: A comprehensive project developed during a Java training course, demonstrating key object-oriented principles and advanced Java concepts. Features
-concepts and learnings after 4 of 8 weeks of the course in form of an intermediate test project. The timeframe to complete was 2 days.
+concepts and learnings after 4 of 8 weeks into the course. It has the form of an intermediate test project. The timeframe to complete was 2 days.
 - **Highlights**: Structured using a Model-View-Controller (MVC) architecture to separate logic, data handling, and user interface, making it scalable and easy to maintain.
 
 ## Contact
