@@ -2,8 +2,7 @@
 
 ## Rahmenbedingungen
 Das Projekt stellt die Abschlussarbeit im 8-wöchigen Kurs Java-Entwickler 
-von alfatraining Bildungszentrum GmbH dar. Der Bearbeitungszeitraum be-
-trägt 2 Wochen, vom 25.11.2024 - 06.12.2024.
+von alfatraining Bildungszentrum GmbH dar. Der Bearbeitungszeitraum beträgt 2 Wochen, vom 25.11.2024 - 06.12.2024.
 
 ## Projektbeschreibung
 Dieses Projekt wurde entwickelt, um die Verwaltung von Filmen mit Titel, Genre und Erscheinungsjahr zu ermöglichen. 
