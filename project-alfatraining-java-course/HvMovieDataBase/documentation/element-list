@@ -1,0 +1,9 @@
+module:de.hvent.hvmoviedatabase
+de.hvent.hvmoviedatabase
+de.hvent.hvmoviedatabase.gui.controller
+de.hvent.hvmoviedatabase.gui.listview
+de.hvent.hvmoviedatabase.gui.menu
+de.hvent.hvmoviedatabase.logic.collection
+de.hvent.hvmoviedatabase.logic.db
+de.hvent.hvmoviedatabase.logic.holder
+de.hvent.hvmoviedatabase.model
